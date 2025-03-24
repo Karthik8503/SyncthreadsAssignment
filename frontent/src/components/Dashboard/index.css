@@ -1,0 +1,14 @@
+.dashboard-cont {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.cards {
+    flex-grow:1;
+    padding: 20px;
+}
+.cards-list{
+    display: flex;
+    flex-direction: wrap;
+    
+}

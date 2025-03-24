@@ -1,0 +1,43 @@
+.cont {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-cont{
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: inset;
+}
+.login-head{
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+label {
+    color: grey;
+    font-family: 'Roboto';
+}
+input {
+    font-family: 'Roboto';
+    width: 0.5px solid #000000;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.submit-btn {
+    font-family: "Roboto";
+    background-color: blue;
+    padding: 8px 20px 8px 20px;
+    border-width: 0px;
+    text-align: center;
+    border-radius: 3px;
+    color: #ffffff;
+}
+.err-msg{
+    font-family: 'Roboto';
+    color: red;
+}

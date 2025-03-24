@@ -1,0 +1,16 @@
+.item {
+    border: 1px solid #000000;
+    border-radius: 8px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.title {
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: black;
+    font-size: 32px;
+}

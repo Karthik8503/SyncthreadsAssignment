@@ -39,5 +39,5 @@ This project is a full-stack React application that integrates a map using the *
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/map-dashboard-app.git
-cd map-dashboard-app
+git clone https://github.com/Karthik8503/SyncthreadsAssignment.git
+cd frontent
